@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Plus-Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13,11 L19,11 C19.5522847,11 20,11.4477153 20,12 C20,12.5522847 19.5522847,13 19,13 L13,13 L13,19 C13,19.5522847 12.5522847,20 12,20 C11.4477153,20 11,19.5522847 11,19 L11,13 L5,13 C4.44771525,13 4,12.5522847 4,12 C4,11.4477153 4.44771525,11 5,11 L11,11 L11,5 C11,4.44771525 11.4477153,4 12,4 C12.5522847,4 13,4.44771525 13,5 L13,11 Z" id="path-1"></path>
+    </defs>
+    <g id="Index" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Index-Contracted" transform="translate(-1156.000000, -1636.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1400" height="3278"></rect>
+            <g id="Services" transform="translate(0.000000, 1408.000000)">
+                <g id="Backgrounds" fill="#0884C2" opacity="0.053272192">
+                    <polygon id="Path-2" transform="translate(700.000000, 485.000000) rotate(-180.000000) translate(-700.000000, -485.000000) " points="2.27373675e-13 192 1400 192 1400 778 4.54747351e-13 778"></polygon>
+                </g>
+                <g id="List" transform="translate(152.000000, 192.000000)">
+                    <g id="Li01">
+                        <g id="BG" fill="#FFFFFF">
+                            <rect id="Rectangle-2" x="0" y="0" width="1096" height="96" rx="6"></rect>
+                        </g>
+                        <g id="Plus-Icon" transform="translate(992.000000, 24.000000)">
+                            <g id="Group-2" transform="translate(12.000000, 12.000000)">
+                                <g id="Bound">
+                                    <rect id="Rectangle-4" x="0" y="0" width="24" height="24"></rect>
+                                </g>
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Combined-Shape" fill="#07BABE" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
