@@ -1,0 +1,995 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"background-",
+				"background-color\tproperty"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"nav-",
+				"nav-shown"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"scale",
+				"scale()\ttransform"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"col-lg-",
+				"col-lg-auto"
+			],
+			[
+				"justif",
+				"justify-content-lg-start"
+			],
+			[
+				"se",
+				"selectedIndex"
+			],
+			[
+				"sle",
+				"selElmnt"
+			],
+			[
+				"set",
+				"selElmnt"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"sel",
+				"selElmnt"
+			],
+			[
+				"self",
+				"align-self"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"coun",
+				"counter-reset"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"dr",
+				"drawerClose"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"tras",
+				"transform"
+			],
+			[
+				"spac",
+				"space-between"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"itme",
+				"item4"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"border-",
+				"border-style"
+			],
+			[
+				"img",
+				"background-image"
+			],
+			[
+				"my",
+				"myFunction2"
+			],
+			[
+				"scrollin",
+				"scrolling"
+			],
+			[
+				"b",
+				"balance"
+			],
+			[
+				"column-r",
+				"column-rule"
+			],
+			[
+				"colum",
+				"column-fill"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"main",
+				"mainmessage"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"I",
+				"initial"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"i",
+				"item4"
+			],
+			[
+				"transform",
+				"transform-origin"
+			],
+			[
+				"inlie",
+				"inline-block"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"mg",
+				"margin-top"
+			],
+			[
+				"a",
+				"00A0"
+			],
+			[
+				"counter",
+				"counter-increment"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"ro",
+				"rotate()"
+			],
+			[
+				"rot",
+				"rotateY()"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"pr",
+				"ProximaNova-Bold"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"we",
+				"webkit-transition"
+			],
+			[
+				"marin",
+				"margin-top"
+			],
+			[
+				"link",
+				"link-go-top"
+			],
+			[
+				"he",
+				"heading_onbright"
+			],
+			[
+				"con",
+				"contacts"
+			],
+			[
+				"mt",
+				"margin-bottom"
+			],
+			[
+				"p",
+				"p:2\tpadding:0 0"
+			],
+			[
+				"bl",
+				"blockquote"
+			],
+			[
+				"blcok",
+				"blockquote"
+			],
+			[
+				"sub",
+				"subhead_onbright"
+			],
+			[
+				"head",
+				"heading_onbright"
+			],
+			[
+				"su",
+				"subhead_ondark"
+			],
+			[
+				"hea",
+				"heading_ondark"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"sha",
+				"shadow"
+			],
+			[
+				"sh",
+				"shadow"
+			],
+			[
+				"shad",
+				"box-shadow"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"links",
+				"links_red"
+			],
+			[
+				"lin",
+				"links_red"
+			],
+			[
+				"line",
+				"linear-gradient"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"Ge",
+				"Gentium"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"bord",
+				"bordsize"
+			],
+			[
+				"mi",
+				"MIXINS"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"margint-",
+				"margin-left"
+			],
+			[
+				"margint",
+				"margin-left"
+			],
+			[
+				"margit",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"m",
+				"mt-a\tmargin-top: auto;"
+			],
+			[
+				"out",
+				"outline-width"
+			],
+			[
+				"d",
+				"dotted"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"op",
+				"OpenSans-Bold"
+			],
+			[
+				"gr",
+				"great_vibesregular"
+			],
+			[
+				"Opens",
+				"OpenSans-Bold"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"w",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Page/index.html",
+			"settings":
+			{
+				"buffer_size": 191,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 359.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"autopref",
+				"Autoprefix CSS"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"auo",
+				"Autoprefix CSS"
+			],
+			[
+				"liver",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"PACKA",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"live ",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"palis",
+				"Package Control: List Packages"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"sethr",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"snip",
+				"Snippet: htmltemplate"
+			],
+			[
+				"Snippet: ",
+				"Snippet: blah"
+			],
+			[
+				"sni",
+				"Snippet: htmltemplate"
+			],
+			[
+				"paca",
+				"Package Control: List Packages"
+			],
+			[
+				"snipe",
+				"Snippet: blah"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"setcss",
+				"Set Syntax: CSS"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"setht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"node",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 499.0
+	},
+	"console":
+	{
+		"height": 58.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/danielbogoradov/Desktop/Development-exs/Projects/MedtechLP/Page/css"
+	],
+	"file_history":
+	[
+		"/Users/danielbogoradov/Desktop/Development-exs/Projects/MedtechLP/Page/css/output.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Projects/MedtechLP/Page/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Projects/MedtechLP/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control-Tests/06-Give-Your-CSS-Superpowers-with-Sass/Layouts/Education/03/style.scss",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control-Tests/06-Give-Your-CSS-Superpowers-with-Sass/Layouts/Education/03/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control-Tests/06-Give-Your-CSS-Superpowers-with-Sass/Layouts/Education/02/styles/sourcer/main.scss",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control-Tests/06-Give-Your-CSS-Superpowers-with-Sass/Layouts/Education/02/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control-Tests/06-Give-Your-CSS-Superpowers-with-Sass/Layouts/Education/02/styles/css/main.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control-Tests/06-Give-Your-CSS-Superpowers-with-Sass/Layouts/Education/02/styles/source/main.scss",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control-Tests/06-Give-Your-CSS-Superpowers-with-Sass/Layouts/Education/02/styles/builder/main.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control-Tests/06-Give-Your-CSS-Superpowers-with-Sass/Layouts/Education/02/styles/build/main.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control-Tests/05-Envato-CSS_Flexbox_Essentials/checkpointTest.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control-Tests/06-Give-Your-CSS-Superpowers-with-Sass/Layouts/01/styles/scss/source.scss",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control-Tests/06-Give-Your-CSS-Superpowers-with-Sass/Layouts/01/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control-Tests/06-Give-Your-CSS-Superpowers-with-Sass/Layouts/01/styles/css/build.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control-Tests/06-Give-Your-CSS-Superpowers-with-Sass/Layouts/01/img/anchor-shape.svg",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control-Tests/06-Give-Your-CSS-Superpowers-with-Sass/Layouts/01/img/coffee-cup.svg",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control-Tests/06-Give-Your-CSS-Superpowers-with-Sass/Layouts/01/img/coffee-cup-on-a-plate-black-silhouettes.svg",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control-Tests/06-Give-Your-CSS-Superpowers-with-Sass/Layouts/01/styles/css/bootstrap-grid.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control-Tests/06-Give-Your-CSS-Superpowers-with-Sass/Layouts/01/styles/scss/config",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/06-Give-Your-CSS-Superpowers-with-Sass/Layouts/01/insdexxx.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Snippets/bootstrap-4.0.0/scss/_grid.scss",
+		"/Users/danielbogoradov/Desktop/Development-exs/Tuts-Exercises/Give-Your-CSS-Superpowers-with-Sass/3_1sass_step-1-Initial/build/style.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Tuts-Exercises/Give-Your-CSS-Superpowers-with-Sass/3_1sass_step-1-Initial/source/style.scss",
+		"/Users/danielbogoradov/Desktop/test.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Tuts-Exercises/Give-Your-CSS-Superpowers-with-Sass/3_1sass_step-1-Initial/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Tuts-Exercises/Give-Your-CSS-Superpowers-with-Sass/3_1sass_step-1-Initial/404.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Tuts-Exercises/Give-Your-CSS-Superpowers-with-Sass/3_1sass_step-1-Initial/cathe1.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Tuts-Exercises/Give-Your-CSS-Superpowers-with-Sass/3_1sass_step-1-Initial/category.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Tuts-Exercises/Give-Your-CSS-Superpowers-with-Sass/3_1sass_step-1-Initial/scss/style.scss",
+		"/Users/danielbogoradov/Desktop/Development-exs/Tuts-Exercises/Give-Your-CSS-Superpowers-with-Sass/3_1sass_step-1-Initial/scss/test.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Tuts-Exercises/Give-Your-CSS-Superpowers-with-Sass/3_1sass_step-1-Initial/scss/style.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/checkpointTest.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/style/CT/ctmain.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/selecttest.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/04-Envato-CSS-Css-Tips&Tricks-Control-Test/Styles/mainstyle.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/04-Envato-CSS-Css-Tips&Tricks-Control-Test/envato-css-tips&tricks-ct.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/style/CT/cttypography.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/style/CT/ctmainold.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/checkpointTest-append.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/style/all.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/flexsandbox-ex3.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/style/typography.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/style/bootstrap-grid.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/style/mainstyle.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/style/flexboxgrid.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/testsvg.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/flexsandbox-ex2.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/style/testsvg.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/flexsandbox-ex1.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/style/Bootstrap-Reboot.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/flexsandbox.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/04-Envato-CSS-Css-Tips&Tricks-Control-Test/test.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/mainstyle.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/05-Envato-CSS_Flexbox_Essentials/typography.css",
+		"/Users/danielbogoradov/Downloads/smoothscroll-master/index.html",
+		"/Users/danielbogoradov/Desktop/Range/range.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/Envato-CSS-Css-Tips&Tricks-Control-Test/Styles/mainstyle.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/Envato-CSS-Css-Tips&Tricks-Control-Test/envato-css-tips&tricks-ct.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/Envato-CSS-Css-Tips&Tricks-Control-Test/Styles/fontstyles.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/Envato-CSS-Css-Tips&Tricks-Control-Test/untitled.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/Envato-CSS-Animation Control Test/CT-03.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/Envato-CSS-Animation Control Test/styles.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/Envato-CSS-Animation Control Test/floating test.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/Envato-CSS-Animation Control Test/bootstrap-reboot.css",
+		"/Users/danielbogoradov/Desktop/avtest/avtest.html",
+		"/Users/danielbogoradov/Desktop/avtest.html",
+		"/Users/danielbogoradov/Downloads/CenterHorizontalListItems/style.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3_typography_Techiques/Control-Test/Tst-css3Typography.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3_typography_Techiques/Control-Test/styles.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3_typography_Techiques/Control-Test/untitled.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3_typography_Techiques/Control-Test/Bootstrap-Reboot.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/styles.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/Gradients.html",
+		"/Applications/Amnesia.app/Contents/Resources/config/game.cfg",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/altstyles.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/Gradients/test.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/Gradients/styles.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/Control Tests/Gradients/Gradients.html",
+		"/Users/danielbogoradov/Downloads/Email-Boilerplate-master/Work/120218/Adelplug.html",
+		"/Users/danielbogoradov/Downloads/Email-Boilerplate-master/Work/120218/adelplug-icons.html",
+		"/Users/danielbogoradov/Downloads/Email-Boilerplate-master/Work/120218/adelplug.html",
+		"/Users/danielbogoradov/Downloads/Email-Boilerplate-master/Work/120218/welllab.html",
+		"/Users/danielbogoradov/Downloads/Email-Boilerplate-master/Work/110218/RPR-Links.html",
+		"/Users/danielbogoradov/Downloads/Email-Boilerplate-master/RPR-Links.html",
+		"/Users/danielbogoradov/Downloads/Email-Boilerplate-master/rpr — копия.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/css-slider/newstyle.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/css-slider/newindex.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/css-slider/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/journal/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/journal/newstyle.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/journal/style.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/image-captions/newstyle.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/image-captions/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/image-captions/style.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/image-captions/photo.jpg",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/Step Animation/newstyles.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/Step Animation/step-animation.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/Fliping Cards/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/CSS3Essentials-sf.sublime-workspace",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/Fliping Cards/newstyle.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/Transform/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/Transform/newstyle.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/selectors/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/selectors/newstyle.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/selectors/style.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/selectors/style2.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/fontface/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/fontface/newstyle.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/media-queries/small.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/fontface/style.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/media-queries/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/media-queries/newstyle.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/media-queries/newstyle-small.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/columns/style.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/columns/newstyle.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/columns/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/gradients/newstyle.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/gradients/style.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/gradients/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/text-shadow/newstyle.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/text-shadow/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/text-shadow/style.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/box-shadow/newstyle.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/box-shadow/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/border-radius/index.html",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/border-radius/newstyle.css",
+		"/Users/danielbogoradov/Desktop/Development-exs/CSS3Essentials-sf/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Page/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 45.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/SASS Build/SASS.sublime-build",
+	"project": "MedtechLp.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Tutorial page/tutorial_page.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
